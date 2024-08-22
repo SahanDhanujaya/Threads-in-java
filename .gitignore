@@ -1,0 +1,9 @@
+# Project exclude paths
+/ExtendRunnableInterface/target/
+/ExtendThreadClass/target/
+/Inter-Thread-Commiunication/target/
+/Introduction/target/
+/Join-IsAlive/target/
+/LambdaExpression/target/
+/Synchronized-keyword/target/
+/Thread-Priority/target/
